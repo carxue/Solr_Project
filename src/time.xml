@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tables>
+   <table name="t_product">10001010 00:00:00</table>
+   <table name="t_product_delete">10001010 00:00:00</table>
+   <table name="t_product_gold">10001010 00:00:00</table>
+   <table name="t_product_gold_delete">10001010 00:00:00</table>
+   <table name="t_shop">10001010 00:00:00</table>
+   <table name="t_shop_delete">10001010 00:00:00</table>
+   <table name="t_shop_goods">10001010 00:00:00</table>
+   <table name="t_shop_goods_delete">10001010 00:00:00</table>    
+</tables>
